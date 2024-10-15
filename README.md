@@ -14,11 +14,11 @@ Upgrad E-Shop is an e-commerce web application built with React.js, providing a 
 ## Technologies Used
 
 - **React** (v18.2.0): Main library for building the user interface.
-- **Material UI** (v5.15.1): UI framework to create beautiful and responsive components.
-- **React Router DOM** (v6.21.0): To handle routing between pages.
 - **React Select** (v5.8.0): A flexible select input control for React.
 - **React Toastify** (v9.1.3): For displaying elegant toast notifications.
+- **Material UI** (v5.15.1): UI framework to create beautiful and responsive components.
 - **Emotion** (v11.11.x): Styling library for writing CSS in JavaScript.
+- **React Router DOM** (v6.21.0): To handle routing between pages.
 
 ## Installation
 
